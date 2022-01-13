@@ -1,0 +1,27 @@
+_repo: Apollo-and-Marsyas-and-Other-Poems_67069
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lee-Hamilton, Eugene
+    gutenberg_agent_id: '54100'
+    url: http://www.gutenberg.org/2009/agents/54100
+description: ''
+gutenberg_issued: '2022-01-01'
+identifiers:
+  gutenberg: '67069'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/uiug.30112055476979
+pgterms:marc905: 20210701071201leehamilto
+pgterms:marc906: '1884'
+pgterms:marc907: GB
+production_note: Tim Lindell, Chuck Greif and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: United Kingdom :Elliot Stock,1884.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Apollo and Marsyas, and Other Poems
+url: http://www.gutenberg.org/ebooks/67069
