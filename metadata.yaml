@@ -1,11 +1,16 @@
 _repo: Apollo-and-Marsyas-and-Other-Poems_67069
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67069-h/images/cover.jpg
 creator:
   author:
     agent_name: Lee-Hamilton, Eugene
     gutenberg_agent_id: '54100'
     url: http://www.gutenberg.org/2009/agents/54100
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67069#Apollo-and-Marsyas-and-Other-Poems
 gutenberg_issued: '2022-01-01'
 identifiers:
   gutenberg: '67069'
